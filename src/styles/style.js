@@ -16,5 +16,8 @@ export default StyleSheet.create({
   },
   text: {
     padding: 50
+  },
+  loginBtn: {
+    backgroundColor: 'green'
   }
 });
